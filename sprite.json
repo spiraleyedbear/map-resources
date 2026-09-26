@@ -1,0 +1,130 @@
+{
+  "hatch-single-diag": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-single-vert": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 0,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-single-horiz": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 0,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-cross-dense": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 0,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-cross-light": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 64,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "stipple-light": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 64,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "stipple-plus": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 64,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-ortho-light": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 64,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-single-diag-heavy": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 128,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-single-vert-heavy": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 128,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-single-horiz-heavy": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 128,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-ortho-heavy": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 128,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-cross-light-heavy": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 192,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "stipple-heavy": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 192,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "stipple-plus-heavy": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 192,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "hatch-single-diag-dense": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 192,
+    "pixelRatio": 1,
+    "sdf": false
+  }
+}

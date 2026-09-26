@@ -5,7 +5,7 @@
     "x": 0,
     "y": 0,
     "pixelRatio": 1,
-    "sdf": false
+    "sdf": true
   },
   "hatch-single-vert": {
     "width": 64,

@@ -5,7 +5,7 @@
     "x": 0,
     "y": 0,
     "pixelRatio": 1,
-    "sdf": true
+    "sdf": false
   },
   "hatch-45 grid-bold": {
     "width": 64,

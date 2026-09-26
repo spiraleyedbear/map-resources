@@ -1,5 +1,5 @@
 {
-  "hatch-single-diag-bold": {
+  "1a": {
     "width": 64,
     "height": 64,
     "x": 0,
@@ -7,7 +7,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-45 grid-bold": {
+  "2a": {
     "width": 64,
     "height": 64,
     "x": 64,
@@ -15,7 +15,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-45 grid": {
+  "3a": {
     "width": 64,
     "height": 64,
     "x": 128,
@@ -23,7 +23,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-single-diag": {
+  "4a": {
     "width": 64,
     "height": 64,
     "x": 192,
@@ -31,7 +31,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-grid": {
+  "1b": {
     "width": 64,
     "height": 64,
     "x": 0,
@@ -39,7 +39,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-grid-bold": {
+  "2b": {
     "width": 64,
     "height": 64,
     "x": 64,
@@ -47,7 +47,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-single-horiz": {
+  "3b": {
     "width": 64,
     "height": 64,
     "x": 128,
@@ -55,7 +55,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-single-vert": {
+  "4b": {
     "width": 64,
     "height": 64,
     "x": 192,
@@ -63,7 +63,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-grid 45 and horiz": {
+  "1c": {
     "width": 64,
     "height": 64,
     "x": 0,
@@ -71,7 +71,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-grid 90 and 45": {
+  "2c": {
     "width": 64,
     "height": 64,
     "x": 64,
@@ -79,7 +79,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "stipple-plus plus": {
+  "3c": {
     "width": 64,
     "height": 64,
     "x": 128,
@@ -87,7 +87,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "stipple-plus": {
+  "4c": {
     "width": 64,
     "height": 64,
     "x": 192,
@@ -95,7 +95,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "stipple-diamond-plus": {
+  "1d": {
     "width": 64,
     "height": 64,
     "x": 0,
@@ -103,7 +103,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "stipple-diamonds": {
+  "2d": {
     "width": 64,
     "height": 64,
     "x": 64,
@@ -111,7 +111,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "stipple-reg": {
+  "3d": {
     "width": 64,
     "height": 64,
     "x": 128,
@@ -119,7 +119,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "stiple-bold": {
+  "4d": {
     "width": 64,
     "height": 64,
     "x": 192,
@@ -127,7 +127,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-"hatch-single-diag-bold bold": {
+"1e": {
     "width": 64,
     "height": 64,
     "x": 0,
@@ -135,7 +135,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "wierd": {
+  "2e": {
     "width": 64,
     "height": 64,
     "x": 64,
@@ -143,7 +143,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "stipple-reg dense": {
+  "3e": {
     "width": 64,
     "height": 64,
     "x": 128,
@@ -151,7 +151,7 @@
     "pixelRatio": 1,
     "sdf": false
   },
-  "hatch-single-vert bold": {
+  "4e": {
     "width": 64,
     "height": 64,
     "x": 192,
